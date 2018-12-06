@@ -23,11 +23,13 @@
 		
 		  	$num_1=array_search(max($arreglo),$arreglo);
 		  	$num_2=$numero-$num_1;
-		  	
-		echo 'Entrada: '.$numero;
-		echo '<br>';
-		echo 'Los números que mayor cantidad de dulces pueden obtener son: '.$num_1.' + '.$num_2;
 	  ?>
+		  
+		  <h1>Resultado Prueba.</h1>
+		  <br>
+		  <h2>Entrada: <?php echo $numero; ?></h2>
+		  <br>
+		  <h2>Los números que mayor cantidad de dulces pueden obtener son: <?php echo $num_1 .' + '.$num_2; ?></h2>
 
 	  </div>
   </body>
