@@ -25,7 +25,7 @@
 		  	$num_2=$numero-$num_1;
 	  ?>
 		  
-		  <h1>Resultado Prueba.</h1>
+		  <h1><i><s>Resultado Prueba.</s></i></h1>
 		  <br>
 		  <h3>Entrada: <?php echo $numero; ?></h3>
 		  <br>
