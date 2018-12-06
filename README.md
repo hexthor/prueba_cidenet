@@ -2,8 +2,9 @@
 Prueba de Números Binarios.
 
 Ejercicio:
-Valeria tiene una abuela llamada Lucía, es una encantadora anciana, propietaria de una
-granja y experta repostera. Valeria pide dulces continuamente, pero su sabia abuela no
+
+Valeria tiene una abuela llamada Lucía, es una encantadora anciana, propietaria de una granja y experta repostera.
+Valeria pide dulces continuamente, pero su sabia abuela no
 permite que Valeria coma demasiados para que no caiga enferma. Lucía es aficionada a los
 números binarios, así que propuso un juego a Valeria: ella diría un número N y Valeria
 escogería dos números, X e Y, tales que X + Y = N. Entonces, Lucía daría a Valeria tantos
@@ -26,7 +27,7 @@ Donde la base siempre es 2, y el número 0 o 1 que se multiplica es de acuerdo a
 de cada número en el número binario.
 
 2) Tenga en cuenta que para convertir de números Naturales a Números Binarios se hace
-de la siguiente manera
+de la siguiente manera: 
 Número Natural = 10
 Número Binario = 10 / 2 = 5, Residuo = 0
 5 / 2 = 2, Residuo = 1
@@ -36,5 +37,6 @@ Número Binario = 10 / 2 = 5, Residuo = 0
 Resultado Binario Final = 1010
 
 Ejemplo de entrada y salida esperados:
+
 Entrada = 9
-Salida = “Los números que mayor cantidad de dulces pueden obtener son: "7 + 2"
+Salida = Los números que mayor cantidad de dulces pueden obtener son: "7 + 2"
