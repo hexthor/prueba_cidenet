@@ -27,9 +27,9 @@
 		  
 		  <h1>Resultado Prueba.</h1>
 		  <br>
-		  <h2>Entrada: <?php echo $numero; ?></h2>
+		  <h3>Entrada: <?php echo $numero; ?></h3>
 		  <br>
-		  <h2>Los números que mayor cantidad de dulces pueden obtener son: <?php echo $num_1 .' + '.$num_2; ?></h2>
+		  <h3>Los números que mayor cantidad de dulces pueden obtener son: <?php echo $num_1 .' + '.$num_2; ?></h3>
 
 	  </div>
   </body>
