@@ -1,5 +1,7 @@
 ﻿# prueba_cidenet
-Prueba de Números Binarios.
+Prueba de Números Binarios, Ejercicio #2.
+
+Empresa: Cidenet, Ubicada en Medellín.
 
 Ejercicio:
 
